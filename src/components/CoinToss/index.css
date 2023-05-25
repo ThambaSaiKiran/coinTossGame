@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.bg1 {
+  background-image: linear-gradient(#e2a139, #f9d423);
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  padding: 10%;
+}
+
+.bg2 {
+  background-color: white;
+  height: 75vh;
+  width: 50vw;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.tossImg {
+  height: 120px;
+  width: 120px;
+}
+
+.coinCont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.btn {
+  width: 100px;
+  background-color: #f9d423;
+  color: #a35200;
+  border-color: white;
+}
+
+.p {
+  margin-right: 25px;
+}
